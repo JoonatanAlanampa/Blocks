@@ -6,11 +6,11 @@ Collection of useful RTL blocks and their TBs.
 
 Each folder contains RTL, TB and Makefile to run the tests. Finally the waveforms can be checked using GTKWave.
 
-Example of a DUT passing all tests:
+Example of `a DUT passing all tests`:
 
 ![FIFO make](Images/fifo_make.png)
 
-Example of waveforms in GTKWave:
+Example of `waveforms` in GTKWave:
 
 ![FIFO waveforms](Images/fifo_wf.png)
 
