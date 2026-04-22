@@ -10,7 +10,7 @@ Example of `a DUT passing all tests`:
 
 ![FIFO make](Images/fifo_make.png)
 
-Example of `waveforms` in GTKWave:
+Example of `waveforms in GTKWave`:
 
 ![FIFO waveforms](Images/fifo_wf.png)
 
