@@ -1,0 +1,8 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1776884826" />
+    <testcase name="first_test" classname="test_fifo" file="/home/joonatan/cocotb/fifo/test_fifo.py" lineno="24" time="0.0010848045349121094" sim_time_ns="15.0" ratio_time="13827.375824175824" />
+    <testcase name="second_test" classname="test_fifo" file="/home/joonatan/cocotb/fifo/test_fifo.py" lineno="53" time="0.0008451938629150391" sim_time_ns="29.0" ratio_time="34311.65472496474" />
+    <testcase name="third_test" classname="test_fifo" file="/home/joonatan/cocotb/fifo/test_fifo.py" lineno="96" time="0.0006079673767089844" sim_time_ns="20.999999999999993" ratio_time="34541.32705882352" />
+  </testsuite>
+</testsuites>

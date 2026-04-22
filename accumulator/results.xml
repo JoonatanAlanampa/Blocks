@@ -1,0 +1,7 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1776807204" />
+    <testcase name="first_test" classname="test_accumulator" file="/home/joonatan/cocotb/ex1/test_accumulator.py" lineno="30" time="0.0010657310485839844" sim_time_ns="15.0" ratio_time="14074.845637583892" />
+    <testcase name="second_test" classname="test_accumulator" file="/home/joonatan/cocotb/ex1/test_accumulator.py" lineno="60" time="0.0007731914520263672" sim_time_ns="19.0" ratio_time="24573.473943879126" />
+  </testsuite>
+</testsuites>
