@@ -4,7 +4,7 @@ Collection of useful RTL blocks and their TBs.
 
 ## Repository structure
 
-Each folder contains RTL, TB and Makefile to run the tests. Finally the waveforms can be checked using GTKWave.
+Each folder contains RTL, TB and Makefile to run the tests. [Icarus Verilog](https://steveicarus.github.io/iverilog/) is used as the simulation tool. Finally the waveforms can be checked using GTKWave.
 
 Example of `a DUT passing all tests`:
 
