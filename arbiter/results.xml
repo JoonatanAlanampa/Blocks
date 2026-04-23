@@ -1,0 +1,9 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1776947474" />
+    <testcase name="Ch0OnlyTest" classname="test_arbiter" file="/home/joonatan/venvs/cocotb/lib/python3.10/site-packages/pyuvm/extension_classes.py" lineno="343" time="0.0024700164794921875" sim_time_ns="13.0" ratio_time="5263.12277992278" />
+    <testcase name="Ch1OnlyTest" classname="test_arbiter" file="/home/joonatan/venvs/cocotb/lib/python3.10/site-packages/pyuvm/extension_classes.py" lineno="360" time="0.0016295909881591797" sim_time_ns="13.000000000000002" ratio_time="7977.4618873445515" />
+    <testcase name="FairnessTest" classname="test_arbiter" file="/home/joonatan/venvs/cocotb/lib/python3.10/site-packages/pyuvm/extension_classes.py" lineno="377" time="0.002488851547241211" sim_time_ns="19.000000000000004" ratio_time="7634.043107577356" />
+    <testcase name="BackpressureHoldTest" classname="test_arbiter" file="/home/joonatan/venvs/cocotb/lib/python3.10/site-packages/pyuvm/extension_classes.py" lineno="396" time="0.0018017292022705078" sim_time_ns="17.0" ratio_time="9435.380177319043" />
+  </testsuite>
+</testsuites>
