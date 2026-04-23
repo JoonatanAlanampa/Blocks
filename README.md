@@ -17,7 +17,7 @@ Example of `waveforms in GTKWave`:
 ## Commands
 
 - Navigate to the right place
-- Activate **cocotb**
+- Activate **cocotb** for example: source ~/venvs/cocotb/bin/activate
   
 ```sh
 make                             # Execute the Makefile
