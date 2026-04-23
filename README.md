@@ -22,7 +22,7 @@ Example of `waveforms in GTKWave`:
 ```sh
 make                             # Execute the Makefile
 make WAVES=1                     # Execute the Makefile and generate waveform data
-gtkwave sim_build/fifo.fst       # Open the waveform in GTKWave GUI
+gtkwave sim_build/<NAME>.fst     # Open the waveform in GTKWave GUI
 ```
 
 - Add relevant signals in the GUI and click "Zoom to fit"
