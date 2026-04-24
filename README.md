@@ -1,6 +1,6 @@
 # Blocks
 
-Collection of useful RTL blocks and their TBs.
+Collection of RTL blocks and their TBs.
 
 ## Repository structure
 
